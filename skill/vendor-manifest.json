@@ -1,0 +1,15 @@
+{
+  "upstream": "https://github.com/liominsb/Antigravity-Chinese-Localization",
+  "commit": "0a4da93ed742570f0d748e40c86ea476ba0ab2df",
+  "clientVersion": "2.32.1",
+  "license": "MIT",
+  "sha256": {
+    "app.asar.ready": "8485db086af78b9c302a65a4c239948a07187e0f482577db9c2e79f4bd6558d2",
+    "auto-restore.js": "747e481680a2936fbb1e425533064cdd912018f99f970aa315f9f8e55df6208a",
+    "asar-version.js": "b3bf336e3ab94755c84b85651aa10074ae682b364aecbff674686672a78f99ff"
+  },
+  "customized": {
+    "note": "Keep model names & tiers (High/Medium/Low/XHigh/Thinking/Fast/o1/o3/GPT-4o/DeepSeek-*) in English; localize sidebar static labels & years/relative time; fix Quote shortcut regex, skipCache reset, batch queue reschedule, Chinglish guard, FIFO cache, menu/tray deduplication & ASAR executable flags.",
+    "updatedAt": "2026-11-14T17:44:47.410Z"
+  }
+}
